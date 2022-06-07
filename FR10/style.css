@@ -1,0 +1,162 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+header{
+    padding: 15px 0;
+    background: #212529;
+
+}
+header a{
+    font-size: 20px;
+    color:#fff;
+}
+header nav a{
+    color:#FFFFFF8C;
+    margin-left: 10px;
+    font-size: 16px;
+}
+#first{
+    padding: 6rem 0;
+    background: #212529;
+}
+#first h1{
+    color:#fff;
+    font-size: 50px;
+}
+#first p{
+    font-size: 20px;
+    color:#FFFFFF8C;
+    margin-bottom: 40px;
+}
+#first a:nth-child(3){
+    font-size: 20px;
+    color:#fff;
+    padding: 8px 24px;
+    background-color: #0D6EFD;
+    
+    border: 1px solid #0D6EFD;
+    margin-right: 15px;
+    border-radius: 5px;
+}
+#first a:nth-child(4){
+    color: #fff;
+    font-size: 20px;
+    background-color: #212529;
+    border:1px solid #fff;
+    padding: 8px 24px;
+    border-radius: 5px;
+    
+    
+}
+#second{
+    padding: 4rem 0;
+}
+#second h2{
+    color: #212529;
+    font-size: 31px;
+}
+#second i{
+    padding:10px;
+    background-color: #0D6EFD;
+    font-size: 1.5rem;
+    color:#fff;
+    border-radius:4px ;
+    margin-bottom: 10px;
+}
+#second h3{
+    font-size: 20px;
+    color: #212529;
+    margin-bottom: 10px;
+}
+#second p{
+    font-size: 16px;
+    color: #212529;
+}
+#four{
+    padding: 3rem 0;
+    background-color: #F8F9FA;
+}
+#four h2{
+    color: #212529;
+    font-size: 23px;
+    font-style: italic;
+    line-height: 2rem;
+    width: 70%;
+    margin: auto;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 35px;
+}
+#four span{
+    margin-right: 8px;
+    font-weight: bold;
+}
+#four img{
+    border-radius: 100%;
+}
+#five{
+    padding: 4rem 0;
+}
+#five h2{
+    color: #212529;
+    font-weight: bold;
+    font-size: 31px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#five .top{
+    margin-bottom: 50px;
+}
+#five .top p{
+    font-size: 20px;
+    color:#6C757D;
+    
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+#six{
+    padding: 4rem 0;
+    
+}
+#six .row{
+    padding: 4rem 3rem;
+    background-color: #0D6EFD;
+    border-radius: 10px;
+}
+#six h3{
+    font-size: 27px;
+    color: #fff;
+}
+#six p{
+    font-size: 16px;
+    color: #FFFFFF8C;
+}
+form{
+    display: flex;
+    margin-bottom: 10px;
+    
+
+}
+form input{
+    padding: 6px 12px;
+    background-color: #fff;
+    font-size: 17px;
+    border: none;
+    outline:none;
+}
+form button{
+    font-size: 17px;
+    color: #fff;
+    padding: 6px 6px;
+    border: none;
+    outline: none;
+    background-color: #0D6EFD;
+    border: 1px solid #fff;
+    border-left: 1px solid #0D6EFD;
+}
